@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuatMartin
-- 🌱 I’m currently learning computer science at college
+- 🌱 I am a senior and looking for a job
 - 📫 You can reach me in my email suatmartin30@gmail.com
 
 <!---
