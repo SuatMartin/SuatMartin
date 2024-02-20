@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuatMartin
-- 🌱 I am a senior and looking for a job
+- 🌱 I am a senior in computer science at the University of Massachusetts Amherst and looking for a job
 - 📫 You can reach me in my email suatmartin30@gmail.com
 
 <!---
